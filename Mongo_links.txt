@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/39342401/spring-boot-connect-to-mongodb-replica-set-running-with-an-arbiter
+spring.data.mongodb.uri=mongodb://su:su1$@mongo1:27017,mongo2:27017/myDB?replicaSet=mc
+
+
+http://krams915.blogspot.com/2012/02/mongodb-replica-sets-with-spring-data_9536.html
